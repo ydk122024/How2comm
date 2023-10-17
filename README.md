@@ -7,8 +7,7 @@ The official repository of the NeurIPS2023 paper:
 > [**How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception**](https://github.com/ydk122024/How2comm)        
 >  Dingkang Yang\*, Kun Yang\*, Yuzheng Wang, Jing Liu, Zhi Xu, Rongbin Yin, Peng Zhai, Lihua Zhang <br>
 
-Please wait :grin:, the implementation will be released when the extended version is finished :smiling_face_with_three_hearts:.
-
+Please be patient  :grin:, further clarification and implementation will be released in the future :smiling_face_with_three_hearts:.
 
 ## Abstract
 
