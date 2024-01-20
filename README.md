@@ -71,7 +71,7 @@ We provide our pretrained models on V2XSet and OPV2V datasets. The download URLs
 * Baidu Disk URL is [here](https://pan.baidu.com/share/init?surl=oTepWy7q0U_x1jXNThbyMw&pwd=vaz2).
 
 
-* Google Drive URL is [here](https://drive.google.com/drive/folders/1xuUAJ82BgCP4EERW6S98NjWTzF8Hqrib?usp=drive_link).
+* Google Drive URL is [here](https://drive.google.com/drive/folders/1xuUAJ82BgCP4EERW6S98NjWTzF8Hqrib).
 
 
 To test the provided pretrained models of How2comm, please download the model file and put it under v2xvit/logs/how2comm. The `validate_path` in the corresponding `config.yaml` file should be changed as `v2xset/test` or `opv2v/test`. 
